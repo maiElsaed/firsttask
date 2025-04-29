@@ -1,0 +1,14 @@
+E:\c#projects\task1eraasoft\obj\Debug\net9.0\task1eraasoft.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#projects\task1eraasoft\obj\Debug\net9.0\task1eraasoft.AssemblyInfoInputs.cache
+E:\c#projects\task1eraasoft\obj\Debug\net9.0\task1eraasoft.AssemblyInfo.cs
+E:\c#projects\task1eraasoft\obj\Debug\net9.0\task1eraasoft.csproj.CoreCompileInputs.cache
+E:\c#projects\task1eraasoft\bin\Debug\net9.0\task1eraasoft.exe
+E:\c#projects\task1eraasoft\bin\Debug\net9.0\task1eraasoft.deps.json
+E:\c#projects\task1eraasoft\bin\Debug\net9.0\task1eraasoft.runtimeconfig.json
+E:\c#projects\task1eraasoft\bin\Debug\net9.0\task1eraasoft.dll
+E:\c#projects\task1eraasoft\bin\Debug\net9.0\task1eraasoft.pdb
+E:\c#projects\task1eraasoft\obj\Debug\net9.0\task1eraasoft.dll
+E:\c#projects\task1eraasoft\obj\Debug\net9.0\refint\task1eraasoft.dll
+E:\c#projects\task1eraasoft\obj\Debug\net9.0\task1eraasoft.pdb
+E:\c#projects\task1eraasoft\obj\Debug\net9.0\task1eraasoft.genruntimeconfig.cache
+E:\c#projects\task1eraasoft\obj\Debug\net9.0\ref\task1eraasoft.dll
